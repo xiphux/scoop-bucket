@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "CLI for managing AI agent workspaces using git worktrees and terminal automation",
   "homepage": "https://github.com/xiphux/foundry",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/xiphux/foundry/releases/download/v0.3.0/foundry-x86_64-pc-windows-msvc.zip",
-      "hash": "8499cfb60b3778104e0dc043e7b9e8c9d1a0672979040bfe16edfb1484e36e77"
+      "url": "https://github.com/xiphux/foundry/releases/download/v0.3.1/foundry-x86_64-pc-windows-msvc.zip",
+      "hash": "f2ecb4e67d79496747781fa2d2b92666dd46cb388b88d0d597e81308003ee359"
     }
   },
   "bin": "foundry.exe",
